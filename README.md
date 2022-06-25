@@ -1,4 +1,4 @@
-![]https://sodalinux.org/assets/img/soda-logo.png
+![](https://sodalinux.org/assets/img/soda-logo.png)
 
 # Soda Linux
 
